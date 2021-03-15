@@ -1,3 +1,4 @@
 <?php
-
-echo 'Hello worlwgfqsd123';
+for($i =1; $i<10000; $i+=2){
+    echo $i, '|';
+}

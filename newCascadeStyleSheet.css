@@ -1,0 +1,14 @@
+/*.case{
+    border:1px solid black;
+}*/
+td{
+   border:1px solid black;
+   padding:8px;
+}
+tr{
+    border:1px solid black;
+    padding:8px;
+}
+.bleu{
+    background-color:lightblue;
+}
